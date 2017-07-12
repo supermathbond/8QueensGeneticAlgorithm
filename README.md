@@ -1,2 +1,2 @@
 # 8QueensGeneticAlgorithm
-Solves the 8 queens riddle using GA, and comparing results to regular brute force
+Solves the 8 queens riddle using GA and compares perfomance to regular brute force
